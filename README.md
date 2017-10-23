@@ -10,6 +10,6 @@ I have lot of things to do.
 * Bug fixes.
 * New Features
 
-# Suggestions
-If you have any suggestions please do mail me at abhishek140298@gmail.com` with subject as `chat-suggestions`
+# Suggestion
+If you have any suggestions please do mail me at abhishek140298@gmail.com
 
